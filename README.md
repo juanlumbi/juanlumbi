@@ -50,7 +50,7 @@ En mi viaje de aprendizaje en la programación, cada proyecto, sin importar su t
 
 ### 🌐 F5 / Thoughtworks Hackathon
 
-Participar en el Hackathon F5 / Thoughtworks fue un hito significativo en mi recorrido. Este evento reunió a diversos bootcamps de España, lo que lo hizo muy diverso y enriquecedor. Trabajar en un grupo desde cero nos llevó a establecer reglas de grupo, distribuir asignaciones y fomentar una fuerte interacción grupal. La empatía y la disposición de aquellos que tenían más experiencia para orientarnos fue fundamental. Durante este tiempo, creamos la página web de **ImmerseTechHub** utilizando una variedad de tecnologías, incluyendo HTML dinámico, Node.js, React, Vite, y bibliotecas de pruebas, entre otras.
+Participar en el Hackathon F5 / Thoughtworks fue un hito significativo en mi recorrido. Este evento reunió a diversos bootcamps de España, lo que lo hizo muy diverso y enriquecedor. Trabajar en un grupo personas desconocidas, no fue limitante y nos llevó a establecer reglas de grupo, distribuir asignaciones y fomentar una fuerte interacción grupal. La empatía y la disposición de aquellos que tenían más experiencia para orientarnos fue fundamental. Durante este tiempo, creamos la página web de **ImmerseTechHub** utilizando una variedad de tecnologías, incluyendo HTML dinámico, Node.js, React, Vite, y bibliotecas de pruebas, entre otras.
 
 ### 🛒 Art Living Emporium: Una eCommerce de Arte
 
