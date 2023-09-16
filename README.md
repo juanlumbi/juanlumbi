@@ -107,7 +107,7 @@ Este proyecto representa mi dedicación a la programación y mi deseo de combina
 
 ## 📬 ¡Hablemos!
 
-Estoy emocionado por las oportunidades que el futuro tiene reservado y siempre estoy abierto a nuevas conexiones y colaboraciones interesantes. Si tienes un proyecto, oportunidad o simplemente deseas conectarte, no dudes en encontrarme en https://www.linkedin.com/in/juan-pablo-lumb%C3%AD-poveda-382714251/) o enviarme un correo electrónico a lumbijuanpablo@gmail.com.
+Estoy emocionado por las oportunidades que el futuro tiene reservado y siempre estoy abierto a nuevas conexiones y colaboraciones interesantes. Si tienes un proyecto, oportunidad o simplemente deseas conectarte, no dudes en encontrarme en https://www.linkedin.com/in/juan-pablo-lumb%C3%AD-poveda-382714251/ o enviarme un correo electrónico a lumbijuanpablo@gmail.com.
 
 ¡Gracias por visitar mi perfil! ¡Espero que podamos trabajar juntos en el futuro! 😊
 
