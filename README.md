@@ -1,16 +1,6 @@
 # ¡Hola, soy Juan Pablo Lumbi Poveda! 👋
 
-Soy un apasionado abogado y administrador que está llevando su carrera a un nuevo nivel. Actualmente, estoy en la fase final del programa Fullstack en Factoria F5, donde estoy adquiriendo habilidades técnicas avanzadas. Además, me emociona comenzar mi programa de Maestría en Estudios Avanzados del Derecho Financiero y Tributario en la Universidad Complutense de Madrid (UCM).
-
-## 💼 Experiencia Legal y Administrativa
-
-Como profesional multidisciplinario, he acumulado una sólida experiencia en:
-
-- **Derecho Empresarial:** Brindando asesoramiento legal en cuestiones comerciales, contratos y cumplimiento normativo.
-
-- **Administración:** Desempeñando roles de liderazgo en la gestión empresarial y organizaciones de la sociedad civil, donde he dirigido equipos y proyectos.
-
-- **Resolución de Problemas:** Mi enfoque se centra en encontrar soluciones innovadoras para los desafíos empresariales y legales.
+Soy un apasionado profesional multidisciplinario. 
 
 ## 🚀 Desarrollo Fullstack
 
@@ -21,10 +11,6 @@ Mi pasión por la tecnología me llevó a un programa Fullstack donde he adquiri
 - **Desarrollo Backend:** Node.js, J-son, SQ y bases de datos.
 
 - **Control de Versiones:** Soy un usuario avanzado de Git y GitHub, lo que me permite colaborar eficazmente en proyectos de desarrollo.
-
-## 📚 Próxima Parada: UCM
-
-A partir de 23, septiembre 2023, comenzaré mi programa de Maestría en Estudios Avanzados del Derecho Financiero y Tributario en la UCM. Este emocionante nuevo capítulo fortalecerá mi experiencia legal y abrirá nuevas oportunidades para aplicar mis conocimientos en el mundo de las finanzas y los impuestos.
 
 ## 🌟 Proyectos Destacados
 
